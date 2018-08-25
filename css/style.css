@@ -1234,12 +1234,12 @@ Social Links
 #sponsors .MLAB { background: url('../img/mlab_color_logo.png');     }
 #sponsors .dekrypt { background: url('../img/deKrypt.png');     }
 
-#sponsors .cruise { background: url('../img/cruise.png');     }
-#sponsors .groq { background: url('../img/groq.jpg');     }
-#sponsors .moveworks { background: url('../img/moveworks.png');     }
-#sponsors .qcypher { background: url('../img/qcypher.png');     }
-#sponsors .skydio { background: url('../img/skydio.png');     }
-#sponsors .testai { background: url('../img/testai.png');     }
+#sponsors .cruise { background: url('../img/companies/cruise.png');     }
+#sponsors .groq { background: url('../img/companies/groq.jpg');     }
+#sponsors .moveworks { background: url('../img/companies/moveworks.png');     }
+#sponsors .qcypher { background: url('../img/companies/qcypher.png');     }
+#sponsors .skydio { background: url('../img/companies/skydio.png');     }
+#sponsors .testai { background: url('../img/companies/testai.png');     }
 
 
 
