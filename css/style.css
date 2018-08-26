@@ -1224,8 +1224,20 @@ Social Links
   padding: 90px 0;
 }
 
+.tier.tier1>a {
+  width: 60px;
+}
+
 .tier.tier2>a {
   width: 40px;
+}
+
+.tier.tier3>a {
+  width: 30px;
+}
+
+.tier.tier4>a {
+  width: 20px;
 }
 
 
@@ -1234,12 +1246,32 @@ Social Links
 #sponsors .MLAB { background: url('../img/mlab_color_logo.png');     }
 #sponsors .dekrypt { background: url('../img/deKrypt.png');     }
 
+/*Gold Tier*/
+#sponsors .gm { 
+  background: url('../img/companies/gm.jpg'); 
+  width: 30px;   
+}
+
 #sponsors .cruise { background: url('../img/companies/cruise.png');     }
+
+/*Silver Tier*/
 #sponsors .groq { background: url('../img/companies/groq.jpg');     }
+
+/*Blue Tier*/
 #sponsors .moveworks { background: url('../img/companies/moveworks.png');     }
 #sponsors .qcypher { background: url('../img/companies/qcypher.png');     }
 #sponsors .skydio { background: url('../img/companies/skydio.png');     }
 #sponsors .testai { background: url('../img/companies/testai.png');     }
+#sponsors .deepmap { background: url('../img/companies/deepmap.jpeg');     }
+#sponsors .figureeight { background: url('../img/companies/figureeight.png');     }
+
+/*Other Tier*/
+#sponsors .vyrill { background: url('../img/companies/vyrill.svg');     }
+#sponsors .scale { background: url('../img/companies/scale.png');     }
+#sponsors .deepscale { background: url('../img/companies/deepscale.png');     }
+#sponsors .nimble { background: url('../img/companies/nimble.png');     }
+#sponsors .enlitic { background: url('../img/companies/enlitic.png');     }
+
 
 
 
@@ -1319,14 +1351,14 @@ Social Links
 
 .tier1 a {
   min-width: 250px;
-  width:       50%;
-  height:     250px;
+  width:       30%;
+  height:     200px;
 }
 
 .tier2 a {
   min-width: 250px; /* Split into 2 columns */
   width:       30%;
-  height:     90px;
+  height:     120px;
 }
 
 .tier3 a {
@@ -1340,7 +1372,7 @@ Social Links
   margin: 10px 35px !important; /* Split into 4 columns */
   min-width: 160px;
   width:       10%;
-  height:     90px;
+  height:     80px;
 }
 
 .tier5 a {
