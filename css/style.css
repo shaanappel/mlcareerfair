@@ -1352,13 +1352,13 @@ Social Links
 .tier1 a {
   min-width: 250px;
   width:       30%;
-  height:     200px;
+  height:     150px;
 }
 
 .tier2 a {
   min-width: 250px; /* Split into 2 columns */
   width:       30%;
-  height:     120px;
+  height:     105px;
 }
 
 .tier3 a {
