@@ -1251,14 +1251,17 @@ Social Links
   background: url('../img/companies/gm.jpg'); 
   width: 30px;   
 }
-
 #sponsors .cruise { background: url('../img/companies/cruise.png');     }
 
 /*Silver Tier*/
-#sponsors .groq { background: url('../img/companies/groq.jpg');     }
+#sponsors .groq { background: url('../img/companies/groq.png');     }
+#sponsors .nines { background: url('../img/companies/nines.png');     }
+#sponsors .clockwise { background: url('../img/companies/clockwise.png');     }
+
 
 /*Blue Tier*/
 #sponsors .moveworks { background: url('../img/companies/moveworks.png');     }
+#sponsors .nvidia { background: url('../img/companies/nvidia.png');     }
 #sponsors .qcypher { background: url('../img/companies/qcypher.png');     }
 #sponsors .skydio { background: url('../img/companies/skydio.png');     }
 #sponsors .testai { background: url('../img/companies/testai.png');     }
@@ -1266,6 +1269,7 @@ Social Links
 #sponsors .figureeight { background: url('../img/companies/figureeight.png');     }
 
 /*Other Tier*/
+#sponsors .siftscience { background: url('../img/companies/siftscience.jpg');     }
 #sponsors .vyrill { background: url('../img/companies/vyrill.svg');     }
 #sponsors .scale { background: url('../img/companies/scale.png');     }
 #sponsors .deepscale { background: url('../img/companies/deepscale.png');     }
@@ -1358,7 +1362,7 @@ Social Links
 .tier2 a {
   min-width: 250px; /* Split into 2 columns */
   width:       30%;
-  height:     105px;
+  height:     120px;
 }
 
 .tier3 a {
