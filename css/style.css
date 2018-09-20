@@ -1242,9 +1242,11 @@ Social Links
 
 
 #media .MLAB { background: url('../img/mlab_color_logo.png');     }
-#meida .dekrypt { background: url('../img/deKrypt.png');     }
 #sponsors .MLAB { background: url('../img/mlab_color_logo.png');     }
-#sponsors .dekrypt { background: url('../img/deKrypt.png');     }
+
+/*Grad School*/
+#sponsors .ischool { background: url('../img/companies/ischool.png');     }
+#sponsors .fung { background: url('../img/companies/meng.png');     }
 
 /*Gold Tier*/
 #sponsors .gm { 
@@ -1257,7 +1259,7 @@ Social Links
 #sponsors .groq { background: url('../img/companies/groq.png');     }
 #sponsors .nines { background: url('../img/companies/nines.png');     }
 #sponsors .clockwise { background: url('../img/companies/clockwise.png');     }
-
+#sponsors .zipline { background: url('../img/companies/zipline.png');     }
 
 /*Blue Tier*/
 #sponsors .moveworks { background: url('../img/companies/moveworks.png');     }
@@ -1278,6 +1280,7 @@ Social Links
 #sponsors .nimble { background: url('../img/companies/nimble.png');     }
 #sponsors .enlitic { background: url('../img/companies/enlitic.png');     }
 #sponsors .datavisor { background: url('../img/companies/datavisor.jpg');     }
+#sponsors .afresh { background: url('../img/companies/afresh.jpg');     }
 
 
 
